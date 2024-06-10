@@ -10,7 +10,13 @@ STUDENT NAME AND ST NUMBERS
 
 
 
-VIDEO LINK: https://youtu.be/0LdghsJXjkE
+VIDEO LINK: https://youtu.be/m4Bieeiea_Q
+Git Link: https://github.com/ST10132792/TempoTracker
 
 Username- demo
 Password- demo
+
+	##Added Features##
+	
+	- Added a Graph that displays the users max and min goal time and how much they have logged in.
+	- Added a feature for a leveling system for when users acheive their daily goals.
